@@ -52,52 +52,15 @@ http://cdn.redtraffic.net/gay.m3u8
 http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1,XXX sEG lIST
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
-#EXTINF:-1,iptvtools_47
+#EXTINF:-1,XXX Ultra
 https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1,iptvtools_48
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1,iptvtools_49
-https://www.ast.tv/stream/1/normal.m3u8
-#EXTINF:-1,iptvtools_50
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1,iptvtools_51
-http://www.ast.tv/stream/1/cellular.m3u8
-#EXTINF:-1,iptvtools_52
+#EXTINF:-1,XXX Cellular
 http://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1,iptvtools_53
-https://www.ast.tv/stream/2/ultra.m3u8
-#EXTINF:-1,iptvtools_54
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1,iptvtools_55
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1,iptvtools_56
-http://www.ast.tv/stream/2/master.m3u8
-#EXTINF:-1,iptvtools_58
-http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-#EXTINF:-1,iptvtools_59
+#EXTINF:-1,Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1,iptvtools_60
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1,iptvtools_61
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
-#EXTINF:-1,iptvtools_62
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
-#EXTINF:-1,iptvtools_63
-https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8
-#EXTINF:-1,iptvtools_66
+#EXTINF:-1,Miami TV
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1,iptvtools_67
+#EXTINF:-1,Miami Tv Mexico
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1,iptvtools_68
-https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
-#EXTINF:-1,iptvtools_70
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/chunklist_w1931827340_b1896000.m3u8
-#EXTINF:-1,iptvtools_72
-http://212.42.193.122:8888/play/a00p/index.m3u8
-#EXTINF:-1,iptvtools_74
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1,iptvtools_75
-http://212.42.193.122:8888/play/a00o/index.m3u8
-#EXTINF:-1,iptvtools_76
+#EXTINF:-1,Visit X TV
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
