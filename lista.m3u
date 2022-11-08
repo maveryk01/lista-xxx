@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Midnight Secrets.sp" tvg-name="Fashion TV Lenceria" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="star XXX",Midnight Secrets  
+#EXTINF:-1 tvg-id="Midnight Secrets.sp" tvg-name="Fashion TV Lenceria" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" ,Midnight Secrets  
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 #EXTINF:-1,XXX MILF
 http://cdn.redtraffic.net/milf.m3u8
@@ -81,11 +81,11 @@ http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_26
 http://80.24.75.92:5555/udp/239.111.4.1:1234
 #EXTINF:-1,SexPrive
 http://200.194.238.229:8000/udp/227.0.0.64:1234
-#EXTINF:-1, tvg-id="Midnight.kr" tvg-logo="https://i.imgur.com/ohIAorZ.png" group-title="XXX",Midnight (1080p)
+#EXTINF:-1, tvg-id="Midnight.kr" tvg-logo="https://i.imgur.com/ohIAorZ.png" ,Midnight (1080p)
 https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
-#EXTINF:-1, tvg-id="PinkOTV.it" tvg-logo="https://i.imgur.com/QinRAGU.png" group-title="XXX",Pink'O TV (720p)
+#EXTINF:-1, tvg-id="PinkOTV.it" tvg-logo="https://i.imgur.com/QinRAGU.png" ,Pink'O TV (720p)
 http://w4.12all.tv:4000/play/pinkotv/index.m3u8
-#EXTINF:-1, tvg-id="PlayboyTVKorea.kr" tvg-logo="https://i.imgur.com/k00nQ6l.png" group-title="XXX",Playboy TV Korea (1080p)
+#EXTINF:-1, tvg-id="PlayboyTVKorea.kr" tvg-logo="https://i.imgur.com/k00nQ6l.png" ,Playboy TV Korea (1080p)
 https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 
 
