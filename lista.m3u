@@ -1,8 +1,10 @@
 #EXTM3U
 
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-id="Midnight Secrets.sp" tvg-name="Fashion TV Lenceria" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" ,Midnight Secrets  
+#EXTINF:-1, Fashion TV Lenceria
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1,Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1,XXX MILF
 http://cdn.redtraffic.net/milf.m3u8
 #EXTINF:-1,XXX Big Dick
@@ -59,14 +61,6 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 https://www.ast.tv/stream/1/ultra.m3u8
 #EXTINF:-1,XXX Cellular
 http://www.ast.tv/stream/2/cellular.m3u8
-#EXTINF:-1,Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1,Miami TV
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1,Miami Tv Mexico
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-#EXTINF:-1 tvg-id="MiamiTVLatino.us" tvg-logo="https://i.imgur.com/Y5tUClU.png" group-title="XXX",Miami TV Latino (1080p)
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1,Visit X TV
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
 #EXTINF:-1,Hustler HD
@@ -85,8 +79,110 @@ http://200.194.238.229:8000/udp/227.0.0.64:1234
 https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
 #EXTINF:-1, tvg-id="PinkOTV.it" tvg-logo="https://i.imgur.com/QinRAGU.png" ,Pink'O TV (720p)
 http://w4.12all.tv:4000/play/pinkotv/index.m3u8
-#EXTINF:-1, tvg-id="PlayboyTVKorea.kr" tvg-logo="https://i.imgur.com/k00nQ6l.png" ,Playboy TV Korea (1080p)
-https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
+
+#EXTINF:-1,XXX: Dusk_Follow : twitter.com/redirect2link
+http://angeltv.biz:6969/32103210/32103210/97794
+#EXTINF:-1,XXX: EROX
+http://angeltv.biz:6969/32103210/32103210/97803
+#EXTINF:-1,XXX: EROXXX
+http://angeltv.biz:6969/32103210/32103210/97804
+#EXTINF:-1,XXX: Evil Angel
+http://angeltv.biz:6969/32103210/32103210/97805
+#EXTINF:-1,XXX: Hustler_Follow : twitter.com/redirect2link
+http://angeltv.biz:6969/32103210/32103210/97810
+#EXTINF:-1,XXX: JASMIN.TV
+http://angeltv.biz:6969/32103210/32103210/97811
+#EXTINF:-1,XXX: LEO TV
+http://angeltv.biz:6969/32103210/32103210/97812
+#EXTINF:-1,XXX: Meiden Van Holland
+http://angeltv.biz:6969/32103210/32103210/97813
+#EXTINF:-1,XXX: Miami TV
+http://angeltv.biz:6969/32103210/32103210/97814
+#EXTINF:-1,XXX: Miami TV Jenny Live
+http://angeltv.biz:6969/32103210/32103210/97815
+#EXTINF:-1,XXX: Miami TV Latino
+http://angeltv.biz:6969/32103210/32103210/97816
+#EXTINF:-1,XXX: BARELY LEGAL
+http://angeltv.biz:6969/32103210/32103210/97817
+#EXTINF:-1,XXX: Adorable Teens Anus Angels
+http://angeltv.biz:6969/32103210/32103210/97818
+#EXTINF:-1,XXX: O.La.La_Follow : twitter.com/redirect2link
+http://angeltv.biz:6969/32103210/32103210/97819
+#EXTINF:-1,XXX: Passie XXX
+http://angeltv.biz:6969/32103210/32103210/97820
+#EXTINF:-1,XXX: Passion XXX
+http://angeltv.biz:6969/32103210/32103210/97821
+#EXTINF:-1,XXX: PENTHOUSE Gold
+http://angeltv.biz:6969/32103210/32103210/97823
+#EXTINF:-1,XXX: PENTHOUSE 
+http://angeltv.biz:6969/32103210/32103210/97824
+#EXTINF:-1,XXX: Perv City
+http://angeltv.biz:6969/32103210/32103210/97825
+#EXTINF:-1,XXX: Pinko Club
+http://angeltv.biz:6969/32103210/32103210/97826
+#EXTINF:-1,XXX: PLAYBOY
+http://angeltv.biz:6969/32103210/32103210/97827
+#EXTINF:-1,XXX: Private TV
+http://angeltv.biz:6969/32103210/32103210/97828
+#EXTINF:-1,XXX: Reality Kings TV
+http://angeltv.biz:6969/32103210/32103210/97829
+#EXTINF:-1,XXX: REDLIGHT
+http://angeltv.biz:6969/32103210/32103210/97830
+#EXTINF:-1,XXX: SEXTREME
+http://angeltv.biz:6969/32103210/32103210/97831
+#EXTINF:-1,XXX: VENUS
+http://angeltv.biz:6969/32103210/32103210/97832
+#EXTINF:-1,XXX: VISIT-X TV
+http://angeltv.biz:6969/32103210/32103210/97833
+#EXTINF:-1,XXX: VIVID Red
+http://angeltv.biz:6969/32103210/32103210/97834
+#EXTINF:-1,XXX: VIVID Touch
+http://angeltv.biz:6969/32103210/32103210/97835
+#EXTINF:-1,XXX: VIVID TV
+http://angeltv.biz:6969/32103210/32103210/97836
+#EXTINF:-1,XXX: Alba XXX 1
+http://angeltv.biz:6969/32103210/32103210/97777
+#EXTINF:-1,XXX: Alba XXX 2
+http://angeltv.biz:6969/32103210/32103210/97778
+#EXTINF:-1,XXX: Alba XXX 3
+http://angeltv.biz:6969/32103210/32103210/97779
+#EXTINF:-1,XXX: Alba XXX 4
+http://angeltv.biz:6969/32103210/32103210/97780
+#EXTINF:-1,XXX: Alba XXX 6
+http://angeltv.biz:6969/32103210/32103210/97782
+#EXTINF:-1,XXX: Alba XXX
+http://angeltv.biz:6969/32103210/32103210/97783
+#EXTINF:-1,XXX: Alba XXX
+http://angeltv.biz:6969/32103210/32103210/97784
+#EXTINF:-1,XXX: XXL
+http://angeltv.biz:6969/32103210/32103210/97837
+#EXTINF:-1,XXX: XY Max
+http://angeltv.biz:6969/32103210/32103210/97838
+#EXTINF:-1,XXX: XY Mix
+http://angeltv.biz:6969/32103210/32103210/97839
+#EXTINF:-1,XXX: XY Plus
+http://angeltv.biz:6969/32103210/32103210/97840
+#EXTINF:-1,XXX: XY Plus
+http://angeltv.biz:6969/32103210/32103210/97841
+#EXTINF:-1,XXX: Blacked
+http://angeltv.biz:6969/32103210/32103210/97842
+#EXTINF:-1,XXX: erotic 1
+http://angeltv.biz:6969/32103210/32103210/97795
+#EXTINF:-1,XXX: erotic 2
+http://angeltv.biz:6969/32103210/32103210/97796
+#EXTINF:-1,XXX: erotic 3_Follow : twitter.com/redirect2link
+http://angeltv.biz:6969/32103210/32103210/97797
+#EXTINF:-1,XXX: erotic 4
+http://angeltv.biz:6969/32103210/32103210/97798
+#EXTINF:-1,XXX: erotic 5 
+http://angeltv.biz:6969/32103210/32103210/97799
+#EXTINF:-1,XXX: erotic 6_Follow : twitter.com/redirect2link
+http://angeltv.biz:6969/32103210/32103210/97800
+#EXTINF:-1,XXX: erotic 7
+http://angeltv.biz:6969/32103210/32103210/97801
+#EXTINF:-1,XXX: erotic 8
+http://angeltv.biz:6969/32103210/32103210/97802
+
 
 
 
