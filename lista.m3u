@@ -1,12 +1,21 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml" 
 
+
+#EXTINF:-1 ,Antena 3
+plugin://script.module.horus?action=play&id=a6cfb25becd96cbe9d1929e0e560016beac40887
+
 #EXTINF:-1 ,Vamos Ellas
 plugin://script.module.horus?action=play&id=f317a4fef0b96caabaaad25cadb5f45303544767
 
-#EXTINF:-1 ,Vamos
+#EXTINF:-1 ,Vamos FHD
 plugin://script.module.horus?action=play&id=7ea69506cdde10da9d85a2414310a7e5afcdba19
 
-#EXTINF:-1 ,Vamos
-plugin://script.module.horus?action=play&id=7ea69506cdde10da9d85a2414310a7e5afcdba19
+#EXTINF:-1 ,Vamos FHD
+plugin://script.module.horus?action=play&id=0b7057503d40a24417441484479cfe2d0eceb2fd
+
+#EXTINF:-1 ,Vamos FHD SAT
+plugin://script.module.horus?action=play&id=8c1e181e99425c729cdf12c21fccaf07ea106a49
+
+
 
 
