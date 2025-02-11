@@ -2,3 +2,6 @@
 
 #EXTINF:-1 group-title="GENERALES" tvg-id="VamosEllas" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F493710%2Fellas-vamos-por-movistar-plus&psig=AOvVaw2PSWr4oi5vT420iYGxcJ23&ust=1739360858109000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjpjMPGu4sDFQAAAAAdAAAAABAE" ,Vamos Ellas
 plugin://script.module.horus?action=play&id=f317a4fef0b96caabaaad25cadb5f45303544767
+
+#EXTINF:-1 group-title="GENERALES" tvg-id="Vamos" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AVamos.svg&psig=AOvVaw03_z4bE0r2uqq3EZSC66dK&ust=1739361254990000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjUhu7Hu4sDFQAAAAAdAAAAABAE" ,Vamos FHD
+plugin://script.module.horus?action=play&id=7ea69506cdde10da9d85a2414310a7e5afcdba19
