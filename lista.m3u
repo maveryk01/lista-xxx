@@ -1,8 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml" 
-
+#EXTINF:-1 ,Lista de canales IDManteca por Maveryk
 
 #EXTINF:-1 ,Antena 3
 plugin://script.module.horus?action=play&id=a6cfb25becd96cbe9d1929e0e560016beac40887
+
+#EXTINF:-1 ,Cuatro
+plugin://script.module.horus?action=play&id=de6527833ce8e62aa0af3e64891e6e1f250726e0
 
 #EXTINF:-1 ,Vamos Ellas
 plugin://script.module.horus?action=play&id=f317a4fef0b96caabaaad25cadb5f45303544767
@@ -15,6 +18,30 @@ plugin://script.module.horus?action=play&id=0b7057503d40a24417441484479cfe2d0ece
 
 #EXTINF:-1 ,Vamos FHD SAT
 plugin://script.module.horus?action=play&id=8c1e181e99425c729cdf12c21fccaf07ea106a49
+
+#EXTINF:-1 ,Copa del Rey
+plugin://script.module.horus?action=play&id=adb8b91f027336eb5091ca5852561202c35f0b6e
+
+#EXTINF:-1 ,Dazn 01 Bar FHD
+plugin://script.module.horus?action=play&id=0908f5dd264ded10b638636cb7479409cfee0813
+
+#EXTINF:-1 ,Dazn 01 FHD
+plugin://script.module.horus?action=play&id=e6121426f7d8007ae9de8e782f05d91e9b27993d
+
+#EXTINF:-1 ,Dazn 01 SAT FHD
+plugin://script.module.horus?action=play&id=e253307f495a6beeda976d2363d72501f2dc1fe3
+
+#EXTINF:-1 ,Dazn 02 Bar FHD
+plugin://script.module.horus?action=play&id=17dc260a6b6c176183807e659817b647ddca465b
+
+#EXTINF:-1 ,Dazn 02 FHD
+plugin://script.module.horus?action=play&id=b056dfc53c18de02caeff4435ddb6b36bfb7b031
+
+#EXTINF:-1 ,Dazn 03 FHD
+plugin://script.module.horus?action=play&id=b11dd020fc6e89b39b69c1f3bef032be72286e72
+
+#EXTINF:-1 ,Dazn 04 FHD
+plugin://script.module.horus?action=play&id=ddb1d0ff24955582668c0c6e4d4fb3d58cc4b65e
 
 
 
